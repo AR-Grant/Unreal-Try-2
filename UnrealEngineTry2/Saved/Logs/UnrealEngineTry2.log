@@ -573,3 +573,33 @@ LogInit: Object subsystem initialized
 [2017.09.19-09.27.25:207][ 97]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2017.09.19-09.27.25:207][ 97]SourceControl:  create mode 100644 UnrealEngineTry2/Content/CGI/Materials/Testing-Testing-123.uasset
 [2017.09.19-09.27.25:212][ 97]SourceControl: Commited [master 107fe4e] Testing-123.
+[2017.09.19-09.49.03:454][742]LogSavePackage: Save=13.32ms
+[2017.09.19-09.49.03:454][742]LogSavePackage: Moving '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Saved/WORKONDISMATERIALYO596262B846803866BEB90485FC665A9D.tmp' to '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset'
+[2017.09.19-09.49.03:459][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset
+[2017.09.19-09.49.05:824][ 17]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.09.19-09.49.16:229][ 17]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.19-09.49.16:250][ 17]SourceControl: [CHristopher_Submit 64d1208] CHangesForGrant
+[2017.09.19-09.49.16:250][ 17]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.09.19-09.49.16:250][ 17]SourceControl:  create mode 100644 UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset
+[2017.09.19-09.49.16:254][ 17]SourceControl: Commited [CHristopher_Submit 64d1208] CHangesForGrant.
+[2017.09.19-09.53.18:846][560]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.09.19-09.55.04:498][205]Cmd: MAP LOAD FILE="../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.19-09.55.04:498][205]LightingResults: New page: Lighting Build
+[2017.09.19-09.55.04:499][205]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2017.09.19-09.55.04:500][205]MapCheck: New page: Map Check
+[2017.09.19-09.55.04:500][205]LightingResults: New page: Lighting Build
+[2017.09.19-09.55.04:526][205]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.19-09.55.04:529][205]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.19-09.55.04:561][205]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.19-09.55.04:604][205]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 42.559ms to complete.
+[2017.09.19-09.55.04:606][205]LogFileHelpers: Loading map 'Minimal_Default' took 0.108
+[2017.09.19-09.56.53:000][198]LogSlate: Took 0.004636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.09.19-09.59.09:147][145]LogSavePackage: Save=39.18ms
+[2017.09.19-09.59.09:148][145]LogSavePackage: Moving '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Saved/Minimal_Default28AD4F6443755CE5242EBABA125C0C8A.tmp' to '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.09.19-09.59.09:150][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.09.19-09.59.09:178][145]LogFileHelpers: Saving map 'Minimal_Default' took 0.127
+[2017.09.19-09.59.14:081][731]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.09.19-09.59.26:588][731]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.19-09.59.26:642][731]SourceControl: [Grants-Branch c2d3e65] GET-DESE-MERT
+[2017.09.19-09.59.26:642][731]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.09.19-09.59.26:647][731]SourceControl: Commited [Grants-Branch c2d3e65] GET-DESE-MERT.
