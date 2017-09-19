@@ -573,3 +573,12 @@ LogInit: Object subsystem initialized
 [2017.09.19-09.27.25:207][ 97]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2017.09.19-09.27.25:207][ 97]SourceControl:  create mode 100644 UnrealEngineTry2/Content/CGI/Materials/Testing-Testing-123.uasset
 [2017.09.19-09.27.25:212][ 97]SourceControl: Commited [master 107fe4e] Testing-123.
+[2017.09.19-09.49.03:454][742]LogSavePackage: Save=13.32ms
+[2017.09.19-09.49.03:454][742]LogSavePackage: Moving '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Saved/WORKONDISMATERIALYO596262B846803866BEB90485FC665A9D.tmp' to '../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset'
+[2017.09.19-09.49.03:459][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/AmplifiedRobot-Chris/Documents/GitHub/Unreal-Try-2/UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset
+[2017.09.19-09.49.05:824][ 17]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2017.09.19-09.49.16:229][ 17]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.09.19-09.49.16:250][ 17]SourceControl: [CHristopher_Submit 64d1208] CHangesForGrant
+[2017.09.19-09.49.16:250][ 17]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2017.09.19-09.49.16:250][ 17]SourceControl:  create mode 100644 UnrealEngineTry2/Content/CGI/Materials/WORKONDISMATERIALYO.uasset
+[2017.09.19-09.49.16:254][ 17]SourceControl: Commited [CHristopher_Submit 64d1208] CHangesForGrant.
